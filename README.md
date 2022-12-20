@@ -36,7 +36,6 @@ The following is just a simple list of the api end points:
 Install the dependencies and start the server to test the Api.
 
 ```sh
-$ Composer install
 $ php artisan key:generate
 $ php artisan migrate
 $ php artisan jwt:secret 

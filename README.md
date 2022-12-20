@@ -9,7 +9,7 @@
 
 # API documentation:
 All API End points and documentation can be found at:
-[This link](https://api.postman.com/collections/22137553-47c44bca-ffd4-4ee5-b9fa-9aa8f73ba5ed?access_key=PMAT-01GMQ7B2AGTM4YRSVVWQMNKCX7).
+[This link](https://elements.getpostman.com/redirect?entityId=22137553-47c44bca-ffd4-4ee5-b9fa-9aa8f73ba5ed&entityType=collection).
 
 The following is just a simple list of the api end points:
 
